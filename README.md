@@ -10,7 +10,7 @@ The design document for this project can be found in the root directory.The sour
 ## Compiling the Source Code
 The source code can be compiled using the provided Makefile. The Makefile is located in ./src.
 
-Navigate to the /src folder, and open a terminal. Type `make` to compile the source code. To run the source code, type `./run.sh` in the terminal, or double click on the Main.jar file.
+Type `make` to compile the source code. To run the source code, type `./run.sh` in the terminal, or double click on the Main.jar file.
 
 To clean up the repository, you can use the `make clean` command. The `make clean` command will delete all of the generated .class files, the Manifest file, as well as the .jar file.
 
